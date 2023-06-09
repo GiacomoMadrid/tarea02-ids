@@ -6,7 +6,6 @@ Tarea 02 del curso de IDS
 ```
 https://www.python.org/downloads/release/python-3917/
 ```
-
 - Usar pip y el archivo requirements.txt
 ```
 pip install -r requirements.txt
